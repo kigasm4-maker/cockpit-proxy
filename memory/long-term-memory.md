@@ -9,6 +9,7 @@
 ## Préférences techniques
 - [2026-07-08 confirmé] Utilisateur exclusivement sur iPad, pas d'ordinateur : toute exécution de script (auto_source.py, quality_gate.py, fingerprint_check.py, publish.sh) doit se faire via une session Claude Code (Bash tool), jamais via installation locale/cron/LaunchAgent
 - [2026-07-08 confirmé] Automatisation content-ops (consolidate-memory, research-scout, research-review) planifiée via Routines Claude Code Remote (cloud), pas cron/LaunchAgent local — repo cockpit-proxy, branche claude/memory-content-automation-vqmikg
+- [2026-07-09 observé 3x] WebFetch retourne systématiquement 403 dans cet environnement (blogs FR testés + API HN Algolia) : research-scout doit s'appuyer uniquement sur WebSearch, ne pas retenter WebFetch sur ces domaines sans raison
 
 ## Patterns confirmés (issus de research-review)
 <!-- PATTERNS:START -->

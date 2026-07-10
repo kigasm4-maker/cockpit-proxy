@@ -12,4 +12,9 @@
 - [2026-07-08 15:09] [fait] — Utilisateur exclusivement sur iPad, pas d'ordinateur (source : session cockpit-proxy) — promu en long-term
 - [2026-07-08 19:04] [tâche] — 1er run research-scout : 4 trouvailles (rencontres, communication, conflits, confiance/estime_de_soi), rien promu (source : session cockpit-proxy)
 - [2026-07-09 02:35] [tâche] — 1er run consolidate-memory nocturne (source : session cockpit-proxy)
+- [2026-07-09 07:08] [tâche] — 2e run research-scout : 2 trouvailles (confiance : reconstruction après trahison ; couple_duree : 5 rituels hebdo) (source : session cockpit-proxy)
+- [2026-07-09 13:08] [tâche] — 3e run research-scout : 1 trouvaille (estime_de_soi : auto-compassion vs auto-critique après rupture) (source : session cockpit-proxy)
+- [2026-07-09 19:08] [tâche] — 4e run research-scout : 2 trouvailles corroborantes → 2 patterns à 2 sources indépendantes (rencontres : détail profil ×3 réponses ; estime_de_soi : auto-compassion) prêts pour research-review dimanche (source : session cockpit-proxy)
+- [2026-07-09 19:08] [fait] — WebFetch retourne systématiquement 403 sur tous les domaines testés (blogs FR + API HN Algolia), 3 runs consécutifs — promu en long-term
+- [2026-07-10 02:38] [tâche] — 2e run consolidate-memory nocturne (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
