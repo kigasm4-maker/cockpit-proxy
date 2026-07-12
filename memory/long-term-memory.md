@@ -13,4 +13,7 @@
 
 ## Patterns confirmés (issus de research-review)
 <!-- PATTERNS:START -->
+- [2026-07-12 confirmé] Sur les applis de rencontre, un premier message qui mentionne un détail précis du profil (plutôt qu'une formule générique type « salut ça va ») augmente nettement les chances de réponse (sources: https://loveshortcut.fr/guides-pratiques/10-premiers-messages-qui-fonctionnent-sur-les-applis-de-rencontre-et-pourquoi/, https://www.datingland.fr/exemple-de-message-pour-site-de-rencontre.html)
+- [2026-07-12 confirmé] Après une rupture, pratiquer l'auto-compassion plutôt que l'auto-critique accélère et améliore la récupération psychologique (sources: https://www.la-clinique-e-sante.com/blog/traumatismes/developper-resilience-cles, https://www.esantementale.ca/Yukon/Lauto-compassion-plus-importante-que-lestime-de-soi-et-peut-tre-la-cle-de-la-sante-mentale/index.php?m=article&ID=52807)
+- [2026-07-12 confirmé] Un rituel régulier sans écran (hebdomadaire ou quotidien, même court) renforce mesurablement la complicité et la satisfaction dans un couple de longue durée (sources: https://www.coupletherapie59.fr/blog/articles/routine-dans-le-couple-5-cles-pour-retrouver-de-la-complicite, https://www.medisite.fr/couple-couple-3-rituels-quotidiens-pour-retrouver-une-complicite-amoureuse.5717518.40877.html)
 <!-- PATTERNS:END -->
