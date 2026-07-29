@@ -6,13 +6,8 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-07-15 02:37] [tâche] — 7e run consolidate-memory nocturne, purge des entrées >48h (source : session cockpit-proxy)
-- [2026-07-15 07:08] [tâche] — 20e run research-scout : 1 trouvaille (protocole SMS/mail avec l'ex, famille recomposée) (source : session cockpit-proxy)
-- [2026-07-15 13:08] [tâche] — 21e run research-scout : 1 trouvaille (célibat choisi vs solitude subie, source académique PMC) (source : session cockpit-proxy)
-- [2026-07-15 19:07] [tâche] — 22e run research-scout : 1 trouvaille (INSEE — argent = ~40% des disputes conjugales) (source : session cockpit-proxy)
-- [2026-07-16 02:37] [tâche] — 8e run consolidate-memory nocturne, purge des entrées >48h (source : session cockpit-proxy)
-- [2026-07-16 07:08] [tâche] — 23e run research-scout : 1 trouvaille (red flag : réaction hostile à une limite posée) (source : session cockpit-proxy)
-- [2026-07-16 13:08] [tâche] — 24e run research-scout : 1 trouvaille (humour partagé en couple, méta-analyse Jeffrey Hall — recoupe la nuance Gottman) (source : session cockpit-proxy)
-- [2026-07-16 19:08] [tâche] — 25e run research-scout : 1 trouvaille (3e source indépendante pour pause-20min + concept de réparation Gottman) → pattern pause-20min désormais à 3 sources, candidat quasi certain pour research-review dimanche (source : session cockpit-proxy)
-- [2026-07-17 02:37] [tâche] — 9e run consolidate-memory nocturne, purge des entrées >48h (source : session cockpit-proxy)
+- [2026-07-29 07:09] [fait] — Trou opérationnel détecté : 50 déclenchements de skills (consolidate-memory/research-scout/research-review) empilés en file sans traitement entre le 2026-07-17 13:08 et le 2026-07-29 07:09 (~12 jours), livrés d'un coup à la reprise de session — pas de perte de données, mais aucun run réel n'a eu lieu sur cette période (source : session cockpit-proxy)
+- [2026-07-29 07:09] [tâche] — Rattrapage effectué : 1 run `research-review` en retard (3 patterns confirmés promus : pause-20min/réparation à 3 sources, ratio 5:1 positif/négatif, argent = tension majeure en couple) plutôt que de rejouer artificiellement 12 jours de recherche historique (source : session cockpit-proxy)
+- [2026-07-29 07:09] [tâche] — 1 run research-scout réel pour aujourd'hui : 2 trouvailles (délai 17-23j avant rencontre en vrai, tendances dating 2026) (source : session cockpit-proxy)
+- [2026-07-29 07:09] [tâche] — Run consolidate-memory de rattrapage (cette entrée) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
