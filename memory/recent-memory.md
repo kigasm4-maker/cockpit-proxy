@@ -13,4 +13,8 @@
 - [2026-07-29 13:xx] [tâche] — research-scout : 1 trouvaille (Gottman — 69% des conflits conjugaux sont perpétuels) (source : session cockpit-proxy)
 - [2026-07-29 19:xx] [tâche] — research-scout : 1 trouvaille (structure des excuses efficaces, étude Stanford) (source : session cockpit-proxy)
 - [2026-07-30 02:37] [tâche] — Run consolidate-memory nocturne, cadence normale retrouvée (plus de trou depuis le rattrapage du 29/07) (source : session cockpit-proxy)
+- [2026-07-30 07:08] [tâche] — research-scout : 1 trouvaille (consulter tôt vs attendre la crise, angle CTA appel_decouverte/session) (source : session cockpit-proxy)
+- [2026-07-30 13:08] [tâche] — research-scout : 1 trouvaille (typologie coparentalité + résidence alternée 15%→28%) (source : session cockpit-proxy)
+- [2026-07-30 19:08] [tâche] — research-scout : 1 trouvaille (filtres photo — 68% vs 45% fierté du corps) (source : session cockpit-proxy)
+- [2026-07-31 02:37] [tâche] — Run consolidate-memory nocturne, cadence normale (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
