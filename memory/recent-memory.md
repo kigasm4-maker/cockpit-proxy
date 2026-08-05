@@ -6,14 +6,13 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-08-02 02:37] [tâche] — Run consolidate-memory nocturne ; research-review prévue aujourd'hui 18h UTC (source : session cockpit-proxy)
-- [2026-08-02 07:08] [tâche] — research-scout : 1 trouvaille (toucher physique — cortisol/ocytocine) (source : session cockpit-proxy)
-- [2026-08-02 13:08] [tâche] — research-scout : 1 trouvaille forte (dating fatigue, étude Ipsos/Dating Lab) (source : session cockpit-proxy)
-- [2026-08-02 18:06] [tâche] — 2e run research-review : 4 patterns confirmés promus (micro-cheating, dating fatigue/retour présentiel, mécanismes réseaux sociaux/estime de soi, cycle poursuite-fuite) ; 8 entrées-sources nettoyées (source : session cockpit-proxy)
-- [2026-08-02 19:07] [tâche] — research-scout : 1 trouvaille (INSEE — préserver ses amitiés en couple) (source : session cockpit-proxy)
 - [2026-08-03 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis 5 jours (source : session cockpit-proxy)
 - [2026-08-03 07:08] [tâche] — research-scout : 1 trouvaille (IFOP — désaccords politiques et ruptures, 48% vs 16%) (source : session cockpit-proxy)
 - [2026-08-03 13:08] [tâche] — research-scout : 1 trouvaille (écrans « tue-l'amour », complément rituel-sans-écran) (source : session cockpit-proxy)
 - [2026-08-03 19:08] [tâche] — research-scout : 1 trouvaille (crise identitaire post-rupture, angle S046) (source : session cockpit-proxy)
 - [2026-08-04 02:38] [tâche] — Run consolidate-memory nocturne ; le système est maintenant à jour avec la date réelle (source : session cockpit-proxy)
+- [2026-08-04 07:08] [tâche] — research-scout : 1 trouvaille (compagnons IA et fidélité, angle 2026) (source : session cockpit-proxy)
+- [2026-08-04 13:08] [tâche] — research-scout : 1 trouvaille (couples childfree, pression sociale) (source : session cockpit-proxy)
+- [2026-08-04 19:08] [tâche] — research-scout : 1 trouvaille (rencontres au travail — 14% vs 11% applis) (source : session cockpit-proxy)
+- [2026-08-05 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis 1 semaine (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
