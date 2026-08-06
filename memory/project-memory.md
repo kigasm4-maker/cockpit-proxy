@@ -12,9 +12,9 @@
 <!-- PROJECTS:START -->
 ### Content-ops (coaching relationnel)
 - **Statut** : en cours
-- **Dernière action** : [2026-08-05] 3 runs research-scout supplémentaires le 04/08 (compagnons IA, childfree, rencontres au travail), 35 trouvailles actives + run consolidate-memory nocturne
-- **Prochaine étape** : prochain `research-review` dimanche 09/08 ; **production de contenu jamais démarrée après presque 4 semaines de veille pure (depuis le 2026-07-08)** — le système a accumulé une matière très riche (7 patterns confirmés, 35 trouvailles actives) mais n'a encore rien transformé en contenu publié ; à trancher avec l'utilisateur : soit démarrer la production, soit ajuster l'objectif de ce projet
-- **Blocages** : (1) WebFetch en 403 systématique dans cet environnement (promu en long-term-memory) — research-scout fonctionne uniquement via WebSearch, qui ne filtre pas fiablement par date ; (2) fiabilité du réveil de session — stable depuis 1 semaine, incident du 17→29/07 considéré résolu
+- **Dernière action** : [2026-08-06] 3 runs research-scout supplémentaires le 05/08 (vocabulaire 2026, micro-trahisons, rester amis avec un ex), 38 trouvailles actives + run consolidate-memory nocturne
+- **Prochaine étape** : prochain `research-review` dimanche 09/08 ; **production de contenu jamais démarrée après presque 4 semaines de veille pure (depuis le 2026-07-08)** — le système a accumulé une matière très riche (7 patterns confirmés, 38 trouvailles actives) mais n'a encore rien transformé en contenu publié ; à trancher avec l'utilisateur : soit démarrer la production, soit ajuster l'objectif de ce projet
+- **Blocages** : (1) WebFetch en 403 systématique dans cet environnement (promu en long-term-memory) — research-scout fonctionne uniquement via WebSearch, qui ne filtre pas fiablement par date ; (2) fiabilité du réveil de session — stable depuis plus d'une semaine, incident du 17→29/07 considéré résolu
 <!-- PROJECTS:END -->
 
 ## Journal de production de contenu
