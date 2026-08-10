@@ -12,8 +12,8 @@
 <!-- PROJECTS:START -->
 ### Content-ops (coaching relationnel)
 - **Statut** : en cours
-- **Dernière action** : [2026-08-09] Journée du 08/08 complète : 3 runs research-scout (8 trouvailles — sexualité Ifop, deuil/algorithmes, polyamorie, âge mariage, géolocalisation/confiance, micro-rejections, rancune, veuvage DREES), 57 trouvailles actives + run consolidate-memory nocturne
-- **Prochaine étape** : `research-review` aujourd'hui dimanche 09/08 — matière abondante à trier (~30 trouvailles logguées depuis la dernière revue du 02/08) ; **production de contenu jamais démarrée après 1 mois de veille pure (depuis le 2026-07-08)** — le système a accumulé une matière très riche (7 patterns confirmés, 57 trouvailles actives) mais n'a encore rien transformé en contenu publié ; à trancher avec l'utilisateur : soit démarrer la production, soit ajuster l'objectif de ce projet
+- **Dernière action** : [2026-08-10] Journée du 09/08 complète : 2 runs research-scout (4 trouvailles — infidélité financière, coparentalité/outils numériques, belle-famille, génération sandwich) + `research-review` dominical (1 pattern promu : confiance numérique/surveillance ; nettoyage de 5 entrées obsolètes) + 1 run research-scout supplémentaire le soir (divorce gris, couples de même sexe INSEE), 58 trouvailles actives, 11 patterns confirmés au total
+- **Prochaine étape** : prochain `research-review` dimanche 16/08 ; **production de contenu jamais démarrée après 1 mois de veille pure (depuis le 2026-07-08)** — le système a accumulé une matière très riche (11 patterns confirmés, 58 trouvailles actives, couverture désormais très large de la niche) mais n'a encore rien transformé en contenu publié ; à trancher avec l'utilisateur : soit démarrer la production, soit ajuster l'objectif de ce projet
 - **Blocages** : (1) WebFetch en 403 systématique dans cet environnement (promu en long-term-memory) — research-scout fonctionne uniquement via WebSearch, qui ne filtre pas fiablement par date ; (2) fiabilité du réveil de session — stable depuis plus d'une semaine, incident du 17→29/07 considéré résolu
 <!-- PROJECTS:END -->
 
