@@ -6,13 +6,14 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-08-14 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 3 semaines, 79 trouvailles actives (source : session cockpit-proxy)
-- [2026-08-14 07:08] [tâche] — research-scout : 1 trouvaille (arnaques sentimentales/deepfakes, vérification identité KYD) (source : session cockpit-proxy)
-- [2026-08-14 13:08] [tâche] — research-scout : 2 trouvailles (ménopause/andropause et sexualité, loud budgeting) (source : session cockpit-proxy)
-- [2026-08-14 19:08] [tâche] — research-scout : 2 trouvailles (sleep divorce/chambre à part, sport en couple) (source : session cockpit-proxy)
 - [2026-08-15 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis presque 4 semaines, 84 trouvailles actives, research-review prévu demain (source : session cockpit-proxy)
 - [2026-08-15 07:08] [tâche] — research-scout : 1 trouvaille (divorces précoces vs tardifs, moment du divorce) (source : session cockpit-proxy)
 - [2026-08-15 13:08] [tâche] — research-scout : 2 trouvailles (test Gottman 2026 pour CTA quiz, réforme médiation familiale 2026) (source : session cockpit-proxy)
 - [2026-08-15 19:08] [tâche] — research-scout : 1 trouvaille (Gen Z dating app burnout, complément dating fatigue) (source : session cockpit-proxy)
 - [2026-08-16 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis presque 4 semaines, 88 trouvailles actives, research-review prévu aujourd'hui (source : session cockpit-proxy)
+- [2026-08-16 07:08] [tâche] — research-scout : 2 trouvailles (investir ensemble/tolérance au risque, animaux de compagnie/DINKWAD) (source : session cockpit-proxy)
+- [2026-08-16 13:08] [tâche] — research-scout : 1 trouvaille (asymétrie de genre des revenus et séparation, source Ined) (source : session cockpit-proxy)
+- [2026-08-16 18:06] [décision] — research-review dominical : 2 patterns promus (compagnons IA/fidélité ; choix childfree sans regret, confirmé par l'Ined), nettoyage de 4 entrées de new_learnings.md (source : session cockpit-proxy)
+- [2026-08-16 19:08] [tâche] — research-scout : 2 trouvailles (alcool et consommation dans le couple, valeurs vs physique Ifop) (source : session cockpit-proxy)
+- [2026-08-17 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis 4 semaines, 89 trouvailles actives, 13 patterns confirmés (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
