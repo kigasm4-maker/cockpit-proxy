@@ -6,13 +6,13 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-08-19 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 4 semaines, 97 trouvailles actives (source : session cockpit-proxy)
-- [2026-08-19 07:08] [tâche] — research-scout : 1 trouvaille (mauvaise identification des opinions politiques du conjoint) (source : session cockpit-proxy)
-- [2026-08-19 13:08] [tâche] — research-scout : 1 trouvaille (rupture amoureuse et syndrome du cœur brisé/Takotsubo) (source : session cockpit-proxy)
-- [2026-08-19 19:08] [tâche] — research-scout : 1 trouvaille (désynchronisation des horaires de travail dans le couple, source Insee) (source : session cockpit-proxy)
 - [2026-08-20 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 4 semaines, 100 trouvailles actives (source : session cockpit-proxy)
 - [2026-08-20 07:08] [tâche] — research-scout : 2 trouvailles (effet Zeigarnik/ghosting, attirance collègue de travail SHRM) (source : session cockpit-proxy)
 - [2026-08-20 13:08] [tâche] — research-scout : 2 trouvailles (savoring/Univ. Illinois via CORDIS, comparaison CBCT vs SBCT) (source : session cockpit-proxy)
 - [2026-08-20 19:08] [tâche] — research-scout : 1 trouvaille (abus numérique post-rupture via accès partagés) (source : session cockpit-proxy)
 - [2026-08-21 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 5 semaines, 105 trouvailles actives (source : session cockpit-proxy)
+- [2026-08-21 07:08] [tâche] — research-scout : 1 trouvaille (charge mentale rentrée scolaire, Bureau Vallée/OpinionWay) (source : session cockpit-proxy)
+- [2026-08-21 13:08] [tâche] — research-scout : 1 trouvaille (bagues de divorce, rituel symbolique de séparation) (source : session cockpit-proxy)
+- [2026-08-21 19:08] [tâche] — research-scout : 2 trouvailles (asexualité/spectre ace, typologie du silence Netta Weinstein) (source : session cockpit-proxy)
+- [2026-08-22 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 5 semaines, 109 trouvailles actives, research-review prévu demain (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
