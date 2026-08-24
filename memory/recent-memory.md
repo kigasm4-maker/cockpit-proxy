@@ -6,13 +6,14 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-08-21 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 5 semaines, 105 trouvailles actives (source : session cockpit-proxy)
-- [2026-08-21 07:08] [tâche] — research-scout : 1 trouvaille (charge mentale rentrée scolaire, Bureau Vallée/OpinionWay) (source : session cockpit-proxy)
-- [2026-08-21 13:08] [tâche] — research-scout : 1 trouvaille (bagues de divorce, rituel symbolique de séparation) (source : session cockpit-proxy)
-- [2026-08-21 19:08] [tâche] — research-scout : 2 trouvailles (asexualité/spectre ace, typologie du silence Netta Weinstein) (source : session cockpit-proxy)
 - [2026-08-22 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 5 semaines, 109 trouvailles actives, research-review prévu demain (source : session cockpit-proxy)
 - [2026-08-22 07:08] [tâche] — research-scout : 0 trouvaille (pistes redondantes ou promotionnelles écartées) (source : session cockpit-proxy)
 - [2026-08-22 13:08] [tâche] — research-scout : 1 trouvaille (jeux vidéo en couple, étude Logitech G) (source : session cockpit-proxy)
 - [2026-08-22 19:08] [tâche] — research-scout : 1 trouvaille (prédiction de rupture via le langage, étude PNAS Univ. du Texas) (source : session cockpit-proxy)
 - [2026-08-23 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 6 semaines, 111 trouvailles actives, research-review prévu aujourd'hui (source : session cockpit-proxy)
+- [2026-08-23 07:08] [tâche] — research-scout : 2 trouvailles (dynamique de jalousie Personal Relationships, 3e source divorce gris/santé mentale) (source : session cockpit-proxy)
+- [2026-08-23 13:08] [tâche] — research-scout : 2 trouvailles (biais de confiance intéressé UCLA, asymétrie beaux-parents DREES) (source : session cockpit-proxy)
+- [2026-08-23 18:06] [tâche] — research-review hebdomadaire : pattern « divorce gris » promu (3 sources), 14 patterns confirmés au total, 112 trouvailles actives (source : session cockpit-proxy)
+- [2026-08-23 19:08] [tâche] — research-scout : 1 trouvaille (asymétrie de genre dans la confidence pré-rupture, étude Epic Ined-Insee/Sciences Po) (source : session cockpit-proxy)
+- [2026-08-24 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis plus de 6 semaines, 113 trouvailles actives (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
