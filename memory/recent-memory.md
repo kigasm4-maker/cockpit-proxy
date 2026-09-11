@@ -11,4 +11,8 @@
 - [2026-09-09 13:24] [tâche] — research-scout de rattrapage : 2 trouvailles (sous-estimation du pouvoir en couple PSPB, thérapie désir dyadique UdeM), 123 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-09 19:08] [tâche] — research-scout : 1 trouvaille (perception rétrospective d'évitabilité des ruptures, OpinionWay/CNAFC), 124 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-10 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis la reprise (aucune coupure depuis hier) (source : session cockpit-proxy)
+- [2026-09-10 07:12] [tâche] — research-scout : 2 trouvailles (contrepoint académique sleep divorce Taïwan, origine amitiés d'enfance sur attachement) (source : session cockpit-proxy)
+- [2026-09-10 13:16] [tâche] — research-scout : 2 trouvailles (chatbot d'auto-dévoilement réciproque CHI 2026, effet emploi de la garde partagée Ined) (source : session cockpit-proxy)
+- [2026-09-10 19:08] [tâche] — research-scout : 1 trouvaille (2e source gratitude — médiation du dyadic coping, Frontiers in Psychology), 129 trouvailles actives, nouveau candidat prêt pour research-review dimanche (source : session cockpit-proxy)
+- [2026-09-11 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable depuis la reprise (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
