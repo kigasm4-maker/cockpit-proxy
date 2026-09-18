@@ -6,13 +6,13 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-09-15 02:38] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
-- [2026-09-15 07:08] [tâche] — research-scout : 1 trouvaille (anxiété d'attachement/jalousie/surveillance électronique, étude JMFT 2025), 141 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-15 13:11] [tâche] — research-scout : 1 trouvaille (facteurs protecteurs satisfaction post-partum, étude longitudinale 5 ans), 142 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-15 19:08] [tâche] — research-scout : 1 trouvaille (contrepoint « choix infini » apps de rencontre, étude Michigan State), 143 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-16 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
 - [2026-09-16 07:08] [tâche] — research-scout : 1 trouvaille (perception épargnant/dépensier prédit satisfaction conjugale, Univ. Géorgie), 144 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-16 13:10] [tâche] — research-scout : 1 trouvaille (typologie des 3 parcours de récupération après rupture, Journal of Loss and Trauma), 145 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-16 19:08] [tâche] — research-scout : 1 trouvaille (couples seniors « Living Apart Together », santé mentale, Oxford), 146 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-17 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
+- [2026-09-17 07:08] [tâche] — research-scout : 1 trouvaille (humour sexuel positif et satisfaction, Canadian Journal of Human Sexuality), 147 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-17 13:08] [tâche] — research-scout : 1 trouvaille (longévité par alliance, cohorte danoise BMC Medicine) ; limite de session atteinte brièvement pendant le run, repris et terminé au sein du même créneau sans rattrapage nécessaire, 148 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-17 19:08] [tâche] — research-scout : 1 trouvaille (méta-analyse stress parental/qualité conjugale, 29 études, enfant en situation de handicap), 149 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-18 02:37] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
