@@ -6,13 +6,14 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-09-25 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
-- [2026-09-25 07:12] [tâche] — research-scout : 1 trouvaille (coping dyadique et stress financier, journal quotidien), 165 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-25 13:18] [tâche] — research-scout : 0 trouvaille (2 pistes recyclées de 2019-2021/2024 écartées), 165 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-25 19:11] [tâche] — research-scout : 1 trouvaille (contribution du partenaire à la charge mentale et satisfaction féminine, PSPB), 166 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-26 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) (source : session cockpit-proxy)
 - [2026-09-26 07:12] [tâche] — research-scout : 1 trouvaille (arc en 4 étapes des relations avec compagnon IA, Univ. Washington), 167 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-26 13:12] [tâche] — research-scout : 1 trouvaille (enjouement, attachement et jalousie chez les célibataires, Frontiers), 168 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-26 19:11] [tâche] — research-scout : 1 trouvaille (partenaire comme meilleur ami vs soutien social distinct, JSPR), 169 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-27 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) ; research-review prévu aujourd'hui dimanche (source : session cockpit-proxy)
+- [2026-09-27 07:12] [tâche] — research-scout : 0 trouvaille (pistes commerciales/datées/redondantes écartées), 169 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-27 13:12] [tâche] — research-scout : 1 trouvaille (colère vs peur dans l'escalade des conflits, étude Univ. Haïfa, 2702 adultes), 170 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-27 18:15] [tâche] — research-review dominical : 1 pattern promu vers long-term-memory (transition au premier enfant fait baisser satisfaction/passion/intimité, concentré sur la 1ère année, rétablissement progressif — 3 sources indépendantes), 167 trouvailles actives après promotion (source : session cockpit-proxy)
+- [2026-09-27 19:12] [tâche] — research-scout : 1 trouvaille (contagion dyadique sommeil→alimentation, étude Concordia/Dymarski), 168 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-28 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + 1 research-review + ce run, aucun créneau manqué) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
