@@ -6,14 +6,13 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-09-27 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run) ; research-review prévu aujourd'hui dimanche (source : session cockpit-proxy)
-- [2026-09-27 07:12] [tâche] — research-scout : 0 trouvaille (pistes commerciales/datées/redondantes écartées), 169 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-27 13:12] [tâche] — research-scout : 1 trouvaille (colère vs peur dans l'escalade des conflits, étude Univ. Haïfa, 2702 adultes), 170 trouvailles actives (source : session cockpit-proxy)
-- [2026-09-27 18:15] [tâche] — research-review dominical : 1 pattern promu vers long-term-memory (transition au premier enfant fait baisser satisfaction/passion/intimité, concentré sur la 1ère année, rétablissement progressif — 3 sources indépendantes), 167 trouvailles actives après promotion (source : session cockpit-proxy)
-- [2026-09-27 19:12] [tâche] — research-scout : 1 trouvaille (contagion dyadique sommeil→alimentation, étude Concordia/Dymarski), 168 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-28 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + 1 research-review + ce run, aucun créneau manqué) (source : session cockpit-proxy)
 - [2026-09-28 07:20] [tâche] — research-scout : 1 trouvaille (phubbing, attachement et représailles, étude Southampton/Carnelley), 169 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-28 13:25] [tâche] — research-scout : 1 trouvaille (cohabitation vs mariage après 50 ans, étude Vienne/Wahring), 170 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-28 19:12] [tâche] — research-scout : 1 trouvaille (auto-expansion et désir sexuel, couples interraciaux de même genre, Journal of Sex Research), 171 trouvailles actives (source : session cockpit-proxy)
 - [2026-09-29 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
+- [2026-09-29 07:12] [tâche] — research-scout : 1 trouvaille (asymétrie d'infidélité financière, étude Nikolova/Olson/Gladstone), 172 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-29 13:19] [tâche] — research-scout : 1 trouvaille (division égale de la charge mentale bénéfique aux deux parents, étude Petts/JMF), 173 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-29 19:12] [tâche] — research-scout : 1 trouvaille (relations amoureuses purement virtuelles, étude Molaie-Birgani/Khodabakhshi-Koolaee), 174 trouvailles actives (source : session cockpit-proxy)
+- [2026-09-30 02:30] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
