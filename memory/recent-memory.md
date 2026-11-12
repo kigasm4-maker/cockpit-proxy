@@ -6,13 +6,13 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-11-09 02:34] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + 1 research-review dominical + ce run, aucun créneau manqué) (source : session cockpit-proxy)
-- [2026-11-09 07:08] [tâche] — research-scout : 1 trouvaille (perception des jeux vidéo comme bénéfiques et soutien social perçu du partenaire, Family Relations 2026), 159 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-09 13:10] [tâche] — research-scout : 1 trouvaille (spirale argent/pouvoir/dépression chez les couples à faible revenu, Personal Relationships 2026), 160 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-09 19:04] [tâche] — research-scout : 0 trouvaille (recherche étendue sur 4 angles distincts, rien de nouveau ne passe la barre qualité) (source : session cockpit-proxy)
 - [2026-11-10 02:34] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
 - [2026-11-10 07:08] [tâche] — research-scout : 1 trouvaille (réminiscence sexuelle après le décès du partenaire comme mécanisme de deuil, Cumben et al. 2025), 161 trouvailles actives (source : session cockpit-proxy)
 - [2026-11-10 13:10] [tâche] — research-scout : 1 trouvaille (drivers de la charge mentale et écart de perception entre partenaires, Hipp et al. 2026), 162 trouvailles actives (source : session cockpit-proxy)
 - [2026-11-10 19:10] [tâche] — research-scout : 1 trouvaille (vécu des enfants dans les familles polyamoureuses, Alarie et al. 2024), 163 trouvailles actives (source : session cockpit-proxy)
 - [2026-11-11 02:35] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
+- [2026-11-11 07:06] [tâche] — research-scout : 2 trouvailles (émerveillement partagé et épanouissement du couple, Journal of Positive Psychology ; durée de l'attachement émotionnel à un ex-partenaire, Chong & Fraley), 165 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-11 13:08] [tâche] — research-scout : 2 trouvailles (qualité vs fréquence des conversations sur l'argent, Peetz & Saxey 2026 ; courbe en U de la satisfaction sur 24 ans, rapport HILDA 2026), 167 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-11 19:08] [tâche] — research-scout : 2 trouvailles (doutes prénuptiaux exprimés sur Reddit, Monk et al. 2025 ; asymétrie de genre du doute relationnel dans la communication quotidienne, Communication Research 2026), 169 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-12 02:34] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
