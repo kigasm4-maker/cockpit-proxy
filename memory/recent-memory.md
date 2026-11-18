@@ -6,13 +6,7 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-11-10 02:34] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
-- [2026-11-10 07:08] [tâche] — research-scout : 1 trouvaille (réminiscence sexuelle après le décès du partenaire comme mécanisme de deuil, Cumben et al. 2025), 161 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-10 13:10] [tâche] — research-scout : 1 trouvaille (drivers de la charge mentale et écart de perception entre partenaires, Hipp et al. 2026), 162 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-10 19:10] [tâche] — research-scout : 1 trouvaille (vécu des enfants dans les familles polyamoureuses, Alarie et al. 2024), 163 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-11 02:35] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
-- [2026-11-11 07:06] [tâche] — research-scout : 2 trouvailles (émerveillement partagé et épanouissement du couple, Journal of Positive Psychology ; durée de l'attachement émotionnel à un ex-partenaire, Chong & Fraley), 165 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-11 13:08] [tâche] — research-scout : 2 trouvailles (qualité vs fréquence des conversations sur l'argent, Peetz & Saxey 2026 ; courbe en U de la satisfaction sur 24 ans, rapport HILDA 2026), 167 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-11 19:08] [tâche] — research-scout : 2 trouvailles (doutes prénuptiaux exprimés sur Reddit, Monk et al. 2025 ; asymétrie de genre du doute relationnel dans la communication quotidienne, Communication Research 2026), 169 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-12 02:34] [tâche] — Run consolidate-memory nocturne, cadence stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué) (source : session cockpit-proxy)
+- [2026-11-17 13:12] [tâche] — research-scout : 3 trouvailles (empathie dyadique et satisfaction sexuelle, Maindron & Emond ; sous-estimation de son rôle d'obstacle aux objectifs du partenaire, Connard et al. ; asymétrie de genre attachement/triade noire/coercition, Almeida et al.), 176 trouvailles actives ; run qui a aussi signalé un écart de 5 jours dans l'historique git (dernier run avant celui-ci le 12/11 13h, notification suivante reçue le 17/11 13h) (source : session cockpit-proxy)
+- [2026-11-17 19:05] [tâche] — research-scout : 1 trouvaille (taux local de couples et écart de bien-être couples/célibataires, Psychological Science/Univ. Saint-Gall), 177 trouvailles actives ; cadence redevenue normale (créneau 19h reçu à l'heure) (source : session cockpit-proxy)
+- [2026-11-18 02:37] [tâche] — Run consolidate-memory nocturne ; constat du 3e incident de fiabilité du réveil de session (12/11 19h08 → 17/11 13h12, ~4j18h, research-review dominical du 15/11 manqué) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
