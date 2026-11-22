@@ -6,9 +6,9 @@
 
 ## Entrées
 <!-- CONSOLIDATE:START -->
-- [2026-11-20 02:34] [tâche] — Run consolidate-memory nocturne, cadence parfaitement stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué, 3e jour consécutif sans accroc depuis le 3e incident de fiabilité) (source : session cockpit-proxy)
-- [2026-11-20 07:05] [tâche] — research-scout : 2 trouvailles (statut relationnel/parental et recours chronique aux psychotropes, Mutualités Libres ; scripts identitaires sur l'argent, LeBaron-Black et al.), 112 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-20 13:06] [tâche] — research-scout : 2 trouvailles (méta-analyse applis de rencontre/santé mentale, Sharabi et al. ; effet causal de l'arrivée de Tinder sur les campus, Büyükeren, Makarin & Xiong), 114 trouvailles actives (source : session cockpit-proxy)
-- [2026-11-20 19:04] [tâche] — research-scout : 2 trouvailles (manque d'intimité perçue prédit la rupture, Park et al. ; niveau absolu de pouvoir ressenti vs équilibre, Körner & Schütz), 116 trouvailles actives (source : session cockpit-proxy)
 - [2026-11-21 02:34] [tâche] — Run consolidate-memory nocturne, cadence parfaitement stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué, 4e jour consécutif sans accroc depuis le 3e incident de fiabilité) (source : session cockpit-proxy)
+- [2026-11-21 07:04] [tâche] — research-scout : 2 trouvailles (asymétrie de genre dans l'impact dépressif du veuvage, Shiba/Kawaguchi et al. ; solitude post-veuvage indépendante du soutien social, Freak-Poli et al.), 118 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-21 13:05] [tâche] — research-scout : 2 trouvailles (synchronie des sourires comme marqueur de qualité du couple, Machluf-Ruttner et al. ; précision de la perception du consentement sexuel, Shi & Impett), 120 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-21 19:04] [tâche] — research-scout : 1 trouvaille (gratitude du partenaire vs gratitude des enfants, effets distincts, Barton & Gong), 121 trouvailles actives (source : session cockpit-proxy)
+- [2026-11-22 02:34] [tâche] — Run consolidate-memory nocturne, cadence parfaitement stable sur les dernières 24h (3 runs research-scout + ce run, aucun créneau manqué, 5e jour consécutif sans accroc depuis le 3e incident de fiabilité) (source : session cockpit-proxy)
 <!-- CONSOLIDATE:END -->
